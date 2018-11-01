@@ -27,6 +27,8 @@ public class SnapFrame extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        bumperSticker2 = new bumpersticker.BumperSticker();
+        bumperSticker3 = new bumpersticker.BumperSticker();
         jButton1 = new javax.swing.JButton();
         jLabel1 = new javax.swing.JLabel();
         jButton2 = new javax.swing.JButton();
@@ -157,6 +159,8 @@ public class SnapFrame extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private bumpersticker.BumperSticker bumperSticker1;
+    private bumpersticker.BumperSticker bumperSticker2;
+    private bumpersticker.BumperSticker bumperSticker3;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
     private javax.swing.JButton jButton3;
